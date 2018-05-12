@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '8044'
     url: http://www.gutenberg.org/2009/agents/8044
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24434#The-Wit-and-Humor-of-America-Volume-X--of-X-
 gutenberg_bookshelf: Humor
 gutenberg_issued: '2008-01-26'
 gutenberg_type: Text
